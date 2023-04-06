@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1680557500 source:/home/hamza/Work/ITI 2023/C Programming/Project 1/magic square/main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1680559484 source:/home/hamza/Work/ITI 2023/C Programming/Projects/magic square/main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

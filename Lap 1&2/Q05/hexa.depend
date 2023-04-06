@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1680620948 source:/home/hamza/Work/ITI 2023/C Programming/C Laps/Lap 1&2/hexa/main.c
+	<stdio.h>
+	<stdlib.h>
+
