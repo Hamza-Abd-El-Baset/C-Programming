@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1682106430 source:/home/hamza/Work/ITI 2023/C Programming/C Laps/Lap 4 (Final Lap)/Q2/main.c
+	<stdio.h>
+	<stdlib.h>
+	"string_concat.h"
+
+1682106527 /home/hamza/Work/ITI 2023/C Programming/C Laps/Lap 4 (Final Lap)/Q2/string_concat.h
+
