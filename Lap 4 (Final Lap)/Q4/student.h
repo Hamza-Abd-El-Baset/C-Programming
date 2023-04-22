@@ -16,15 +16,15 @@ void read_students(Student * students, int students_no)
 
     for(int i=0; i<students_no; i++)
     {
-        printf("\n Please Enter Student[%d] Data : \n\n",i);
+        printf("\nPlease Enter Student[%d] Data : \n\n",i);
 
-        printf("Student[%d].name: ",i);
+        printf("name: ");
         scanf("%s",students[i].name);
 
-        printf("Student[%d].id: ",i);
+        printf("id: ");
         scanf("%d",&students[i].id);
 
-        printf("Student[%d].grade: ",i);
+        printf("grade: ");
         scanf("%d",&students[i].grade);
 
 
@@ -42,9 +42,9 @@ void print_students(Student * students, int students_no)
     {
         printf("\n\nStudent[%d] Data : \n",i);
         printf("------------------------------\n");
-        printf("student[%d].name: %s \n",i,students[i].name);
-        printf("student[%d].id: %d \n",i,students[i].id);
-        printf("student[%d].grade: %d \n",i,students[i].grade);
+        printf("name: %s \n",students[i].name);
+        printf("id: %d \n",students[i].id);
+        printf("grade: %d \n",students[i].grade);
 
     }
 
